@@ -1,0 +1,9 @@
+.\venv\Scripts\activate
+
+Get-ExecutionPolicy
+
+Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
+
+.\venv\Scripts\activate
+
+Set-ExecutionPolicy -Scope Process -ExecutionPolicy Restricted
