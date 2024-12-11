@@ -1,11 +1,10 @@
-```markdown
 # End-to-End Hate Speech Classification Project using LSTM
 
-This repository contains the code for a complete end-to-end hate speech classification project, built using Python and deploying to AWS.  This project demonstrates best practices for building robust and deployable NLP pipelines.
+This repository contains the code for a complete end-to-end hate speech classification project, built using Python and deploying to AWS. This project demonstrates best practices for building robust and deployable NLP pipelines.
 
 ## Project Overview
 
-The goal of this project is to build a model capable of classifying text as hate speech or not hate speech.  We leverage an LSTM (Long Short-Term Memory) network, a type of recurrent neural network (RNN), well-suited for sequential data like text.  The project is structured in a modular fashion, making it easy to understand, maintain, and extend.
+The goal of this project is to build a model capable of classifying text as hate speech or not hate speech. We leverage an LSTM (Long Short-Term Memory) network, a type of recurrent neural network (RNN), well-suited for sequential data like text. The project is structured in a modular fashion, making it easy to understand, maintain, and extend.
 
 ## Project Structure
 
@@ -35,7 +34,6 @@ The project is organized into several key components:
 * **`requirements.txt`**: Project dependencies.
 * **`setup.py`**: Setup file for installing local packages.
 
-
 ## Setup
 
 1. **Install Dependencies:**  Create a virtual environment and install the required packages listed in `requirements.txt`.
@@ -59,8 +57,6 @@ Commit your code changes to GitHub. This will trigger the CircleCI pipeline, whi
 
 Contributions are welcome! Please feel free to open issues or submit pull requests.
 
-
 ## License
 
 [MIT License]
-```
