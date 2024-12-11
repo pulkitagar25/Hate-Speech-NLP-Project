@@ -53,10 +53,6 @@ The project is organized into several key components:
 
 Commit your code changes to GitHub. This will trigger the CircleCI pipeline, which will build a Docker image, push it to AWS ECR, and deploy it to AWS EC2.
 
-## Contributing
-
-Contributions are welcome! Please feel free to open issues or submit pull requests.
-
 ## License
 
 [MIT License]
